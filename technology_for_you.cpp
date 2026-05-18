@@ -1,5 +1,5 @@
 // Technology for you 2026 competition hosted by FEIT & Loging
-// Mini piano consising of 5 notes (buttons), audio amplifier and LCD 16x2 display that writes what notes are played
+// Mini piano consisting of an Arduino Uno, 5 notes (buttons), audio amplifier and LCD 16x2 display that writes what notes are played
 // Pressing DO & SOL at the same time plays an automatic melody of exactly 6s
 #include <LiquidCrystal.h>
 
